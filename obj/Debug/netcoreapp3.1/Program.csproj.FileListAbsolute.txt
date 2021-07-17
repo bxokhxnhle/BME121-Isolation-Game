@@ -1,0 +1,39 @@
+D:\khanh\UW\1A\121\W1\Program\bin\Debug\netcoreapp3.1\Program.exe
+D:\khanh\UW\1A\121\W1\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+D:\khanh\UW\1A\121\W1\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+D:\khanh\UW\1A\121\W1\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+D:\khanh\UW\1A\121\W1\Program\bin\Debug\netcoreapp3.1\Program.dll
+D:\khanh\UW\1A\121\W1\Program\bin\Debug\netcoreapp3.1\Program.pdb
+D:\khanh\UW\1A\121\W1\Program\obj\Debug\netcoreapp3.1\Program.csprojAssemblyReference.cache
+D:\khanh\UW\1A\121\W1\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+D:\khanh\UW\1A\121\W1\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+D:\khanh\UW\1A\121\W1\Program\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+D:\khanh\UW\1A\121\W1\Program\obj\Debug\netcoreapp3.1\Program.dll
+D:\khanh\UW\1A\121\W1\Program\obj\Debug\netcoreapp3.1\Program.pdb
+D:\khanh\UW\1A\121\W1\Program\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache
+D:\khanh\UW\1A\121\Programming Assignments\W3\pa1\obj\Debug\netcoreapp3.1\Program.csprojAssemblyReference.cache
+D:\khanh\UW\1A\121\Programming Assignments\W3\pa1\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+D:\khanh\UW\1A\121\Programming Assignments\W3\pa1\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+D:\khanh\UW\1A\121\Programming Assignments\W3\pa1\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+D:\khanh\UW\1A\121\Programming Assignments\W3\pa1\obj\Debug\netcoreapp3.1\Program.dll
+D:\khanh\UW\1A\121\Programming Assignments\W3\pa1\obj\Debug\netcoreapp3.1\Program.pdb
+D:\khanh\UW\1A\121\Programming Assignments\W3\pa1\bin\Debug\netcoreapp3.1\Program.exe
+D:\khanh\UW\1A\121\Programming Assignments\W3\pa1\bin\Debug\netcoreapp3.1\Program.deps.json
+D:\khanh\UW\1A\121\Programming Assignments\W3\pa1\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+D:\khanh\UW\1A\121\Programming Assignments\W3\pa1\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+D:\khanh\UW\1A\121\Programming Assignments\W3\pa1\bin\Debug\netcoreapp3.1\Program.dll
+D:\khanh\UW\1A\121\Programming Assignments\W3\pa1\bin\Debug\netcoreapp3.1\Program.pdb
+D:\khanh\UW\1A\121\Programming Assignments\W3\pa1\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache
+C:\Users\DELL\OneDrive - University of Waterloo\UW\1A\121\Programming Assignments\W3\pa1\bin\Debug\netcoreapp3.1\Program.exe
+C:\Users\DELL\OneDrive - University of Waterloo\UW\1A\121\Programming Assignments\W3\pa1\bin\Debug\netcoreapp3.1\Program.deps.json
+C:\Users\DELL\OneDrive - University of Waterloo\UW\1A\121\Programming Assignments\W3\pa1\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+C:\Users\DELL\OneDrive - University of Waterloo\UW\1A\121\Programming Assignments\W3\pa1\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive - University of Waterloo\UW\1A\121\Programming Assignments\W3\pa1\bin\Debug\netcoreapp3.1\Program.dll
+C:\Users\DELL\OneDrive - University of Waterloo\UW\1A\121\Programming Assignments\W3\pa1\bin\Debug\netcoreapp3.1\Program.pdb
+C:\Users\DELL\OneDrive - University of Waterloo\UW\1A\121\Programming Assignments\W3\pa1\obj\Debug\netcoreapp3.1\Program.csprojAssemblyReference.cache
+C:\Users\DELL\OneDrive - University of Waterloo\UW\1A\121\Programming Assignments\W3\pa1\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - University of Waterloo\UW\1A\121\Programming Assignments\W3\pa1\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - University of Waterloo\UW\1A\121\Programming Assignments\W3\pa1\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - University of Waterloo\UW\1A\121\Programming Assignments\W3\pa1\obj\Debug\netcoreapp3.1\Program.dll
+C:\Users\DELL\OneDrive - University of Waterloo\UW\1A\121\Programming Assignments\W3\pa1\obj\Debug\netcoreapp3.1\Program.pdb
+C:\Users\DELL\OneDrive - University of Waterloo\UW\1A\121\Programming Assignments\W3\pa1\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache
